@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const userSchema = new mongoose.Schema({
   email: { type: String, required: true, unique: true },
-  password: { type: String }, // optional for OAuth users
+  password: { type: String },
   provider: { type: String, default: "local" },
   googleId: { type: String }
 });
