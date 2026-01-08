@@ -43,8 +43,3 @@ This project allows users to register, log in, and manage personal notes securel
 
 ### Database
 - MongoDB Atlas
-
----
-
-## 📂 Project Structure
-
