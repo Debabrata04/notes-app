@@ -9,7 +9,7 @@ This project allows users to register, log in, and manage personal notes securel
 ## 🚀 Demo
 
 <p align="center">
-  <img src="notes-app.gif" alt="Notes App Demo" width="700"/>
+  <img src="Notes-app.gif" alt="Notes App Demo" width="700"/>
 </p>
 
 ---
